@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'bgHeaderHome': "url(./src/Assets/homeHeader.jpg)",
-        'bgHeaderAbout': "url(./src/Assets/About-Header.webp)",
-        'bgHeaderDestination': "url(./src/Assets/herceg_novi-destinationHeader.webp)",
-        'bgHeaderBlog': "url(./src/Assets/HeaderBlog.webp)",
+        'bgHeaderHome': "url(./src/Assets/Images/homeHeader.jpg)",
+        'bgHeaderAbout': "url(./src/Assets/Images/About-Header.webp)",
+        'bgHeaderDestination': "url(./src/Assets/Images/herceg_novi-destinationHeader.webp)",
+        'bgHeaderBlog': "url(./src/Assets/Images/HeaderBlog.webp)",
       },
       backgroundColor: {
         'nav': '#1d2228'
