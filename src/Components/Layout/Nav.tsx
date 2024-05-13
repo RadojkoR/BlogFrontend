@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import logo from "../../Assets/newLogo.webp"
+import logo from "../../Assets/Images/newLogo.webp";
 
 
 function Nav() {
