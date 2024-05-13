@@ -20,6 +20,10 @@ export default {
       },
       fontFamily:{
         'caveat': '"Caveat", cursive'
+      },
+      width: {
+          'container80': '80%',
+          '25rem': '25rem'
       }
 
     },
