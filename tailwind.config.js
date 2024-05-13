@@ -8,9 +8,9 @@ export default {
     extend: {
       backgroundImage: {
         'bgHeaderHome': "url(./Assets/Images/homeHeader.jpg)",
-        'bgHeaderAbout': "url(./public/Images/About-Header.webp)",
-        'bgHeaderDestination': "url(./public/Images/herceg_novi-destinationHeader.webp)",
-        'bgHeaderBlog': "url(./public/Images/HeaderBlog.webp)",
+        'bgHeaderAbout': "url(./Assets/Images/About-Header.webp)",
+        'bgHeaderDestination': "url(./Assets/Images/herceg_novi-destinationHeader.webp)",
+        'bgHeaderBlog': "url(./Assets/Images/HeaderBlog.webp)",
       },
       backgroundColor: {
         'nav': '#1d2228'
